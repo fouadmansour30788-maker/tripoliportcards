@@ -1,0 +1,6 @@
+{
+  "name": "oept-contacts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dynamic contact/vCard pages for OEPT board members, served via Vercel serverless functions."
+}
